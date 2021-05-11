@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adventureApp/static/css/main.474ddbc6.chunk.css",
+    "main.js": "/adventureApp/static/js/main.449d54e2.chunk.js",
+    "main.js.map": "/adventureApp/static/js/main.449d54e2.chunk.js.map",
+    "runtime-main.js": "/adventureApp/static/js/runtime-main.ea12f415.js",
+    "runtime-main.js.map": "/adventureApp/static/js/runtime-main.ea12f415.js.map",
+    "static/js/2.1442e098.chunk.js": "/adventureApp/static/js/2.1442e098.chunk.js",
+    "static/js/2.1442e098.chunk.js.map": "/adventureApp/static/js/2.1442e098.chunk.js.map",
+    "index.html": "/adventureApp/index.html",
+    "precache-manifest.ac509bac2a6e9517d4ab867bbb287fd8.js": "/adventureApp/precache-manifest.ac509bac2a6e9517d4ab867bbb287fd8.js",
+    "service-worker.js": "/adventureApp/service-worker.js",
+    "static/css/main.474ddbc6.chunk.css.map": "/adventureApp/static/css/main.474ddbc6.chunk.css.map",
+    "static/js/2.1442e098.chunk.js.LICENSE.txt": "/adventureApp/static/js/2.1442e098.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea12f415.js",
+    "static/js/2.1442e098.chunk.js",
+    "static/css/main.474ddbc6.chunk.css",
+    "static/js/main.449d54e2.chunk.js"
+  ]
+}
